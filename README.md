@@ -17,9 +17,9 @@ MERN Stack web developer from Bangladesh
 👋 How to reach me
 <mdarman2feb@gamil.com>
 
-
-
-
-## 🚀 Skills and Expertise
+## 🛠️ Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,mongodb,vercel,figma,vscode,linkedin,github,)](https://skillicons.dev)
+
+## 👨‍💻 My Activity Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Md-Arman01&theme=tokyonight&hide_border=true&card_width=496&ring=FB65DF&currStreakNum=2CF3F2&background=1B0664&sideNums=2CF3F2)](https://git.io/streak-stats)
 
