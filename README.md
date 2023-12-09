@@ -1,10 +1,11 @@
 [![An old rock in the desert](https://raw.githubusercontent.com/Md-Arman01/Md-Arman01/main/Banner/_Electric%20Neon%20Podcast%20Youtube%20Banner.png "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 
 
-## Hi👋, I'm Shahriar Salam Arman
+# Hi👋, I'm Shahriar Salam Arman
 
-MERN Stack web developer from Bangladesh
-## 🙂 About Me
+#### MERN Stack web developer from Bangladesh
+
+# 🙂 About Me
 
 <ul>
   <li>👷🏼 I’m currently working on - MERN Stack Project</li>
@@ -14,12 +15,20 @@ MERN Stack web developer from Bangladesh
   <li>⚡ Fun fact - I am a tea lover</li>
 </ul>
 
-👋 How to reach me
-<mdarman2feb@gamil.com>
 
-## 🛠️ Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,mongodb,vercel,figma,vscode,linkedin,github,)](https://skillicons.dev)
+# 🛠️ Tools and Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,mongodb,vercel,figma,vscode,github,)](https://skillicons.dev)
 
-## 👨‍💻 My Activity Stats
+# 👨‍💻 My Activity Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Md-Arman01&theme=tokyonight&hide_border=true&card_width=845&ring=FB65DF&currStreakNum=2CF3F2&background=1B0664&sideNums=2CF3F2)](https://git.io/streak-stats)
+
+
+# 👋 Connect with me:
+- <mdarman2feb@gamil.com>
+- *[Facebook](https://www.facebook.com/profile.php?id=100023522562335&mibextid=ZbWKwL)*
+- *[Instagram](https://instagram.com/mdarman2feb?igshid=NGVhN2U2NjQ0Yg==)*
+
+#### Feel free to explore my repositories and connect with me 
+
+
